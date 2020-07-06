@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="RSShub 路由站" text="RSShub 路由站" type="rss" xmlUrl="https://rsshub.app/rsshub/rss"/>
+    <outline title="博客" text="博客">
+      <outline title="阮一峰的网络日志" text="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml"/>
+      <outline title="GeekPlux" text="GeekPlux" type="rss" xmlUrl="https://geekplux.com/atom.xml"/>
+      <outline title="Hacker News Digest" text="Hacker News Digest" type="rss" xmlUrl="http://hackernews.betacat.io/feed"/>
+    </outline>
+    <outline title="学习" text="学习">
+      <outline title="Egg.js 团队 / Node.js 专栏" text="Egg.js 团队 / Node.js 专栏" type="rss" xmlUrl="https://rsshub.app/yuque/doc/75258"/>
+      <outline title="产品100" text="产品100" type="rss" xmlUrl="http://www.chanpin100.com/feed"/>
+      <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+    </outline>
+    <outline title="展会" text="展会">
+      <outline title="上海 - 热门 - 每日环球展览 iMuseum" text="上海 - 热门 - 每日环球展览 iMuseum" type="rss" xmlUrl="https://rsshub.app/imuseum/shanghai/hot"/>
+      <outline title="杭州 - 全部 - 每日环球展览 iMuseum" text="杭州 - 全部 - 每日环球展览 iMuseum" type="rss" xmlUrl="https://rsshub.app/imuseum/hangzhou/all"/>
+      <outline title="豆瓣同城金华热门活动" text="豆瓣同城金华热门活动" type="rss" xmlUrl="https://www.douban.com/location/jinhua/events/feed/weekly"/>
+    </outline>
+    <outline title="数据" text="数据">
+      <outline title="艾瑞产业研究报告" text="艾瑞产业研究报告" type="rss" xmlUrl="https://rsshub.app/iresearch/report"/>
+    </outline>
+    <outline title="数码" text="数码">
+      <outline title="DockOne.io无标题文档" text="DockOne.io无标题文档" type="rss" xmlUrl="https://rsshub.app/dockone/weekly"/>
+      <outline title="LeetCode Articles" text="LeetCode Articles" type="rss" xmlUrl="https://rsshub.app/leetcode/articles"/>
+      <outline title="技术头条" text="技术头条" type="rss" xmlUrl="https://rsshub.app/blogread/newest"/>
+      <outline title="数码" text="数码" type="rss" xmlUrl="http://rss.huanqiu.com/tech/digi.xml"/>
+    </outline>
+    <outline title="文本" text="文本">
+      <outline title="古诗文推荐" text="古诗文推荐" type="rss" xmlUrl="https://rsshub.app/gushiwen/recommend"/>
+    </outline>
+    <outline title="新闻" text="新闻">
+      <outline title="cnBeta.COM RSS订阅" text="cnBeta.COM RSS订阅" type="rss" xmlUrl="https://www.cnbeta.com/backend.php"/>
+      <outline title="Engadget 中文版 全文" text="Engadget 中文版 全文" type="rss" xmlUrl="http://cn.engadget.com/rss.xml"/>
+      <outline title="36氪" text="36氪" type="rss" xmlUrl="https://www.36kr.com/feed"/>
+      <outline title="果壳网 科学人" text="果壳网 科学人" type="rss" xmlUrl="https://rsshub.app/guokr/scientific"/>
+      <outline title="爱范儿" text="爱范儿" type="rss" xmlUrl="https://www.ifanr.com/feed"/>
+      <outline title="极客公园" text="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss"/>
+      <outline title="Linux 中国◆开源社区" text="Linux 中国◆开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml"/>
+      <outline title="少数派" text="少数派" type="rss" xmlUrl="https://sspai.com/feed"/>
+      <outline title="小众软件" text="小众软件" type="rss" xmlUrl="http://feeds.appinn.com/appinns/"/>
+      <outline title="OSCHINA 社区最新新闻" text="OSCHINA 社区最新新闻" type="rss" xmlUrl="https://www.oschina.net/news/rss"/>
+      <outline title="知乎每日精选" text="知乎每日精选" type="rss" xmlUrl="https://www.zhihu.com/rss"/>
+      <outline title="今日话题 - 雪球" text="今日话题 - 雪球" type="rss" xmlUrl="https://xueqiu.com/hots/topic/rss"/>
+      <outline title="PanSci 泛科學" text="PanSci 泛科學" type="rss" xmlUrl="https://pansci.asia/feed"/>
+      <outline title="虎嗅" text="虎嗅" type="rss" xmlUrl="https://rss.huxiu.com/"/>
+      <outline title="钛媒体：引领未来商业与生活新知" text="钛媒体：引领未来商业与生活新知" type="rss" xmlUrl="https://www.tmtpost.com/rss.xml"/>
+      <outline title="TechWeb 每日热点推荐 RSS阅读" text="TechWeb 每日热点推荐 RSS阅读" type="rss" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml"/>
+      <outline title="中关村在线新闻中心" text="中关村在线新闻中心" type="rss" xmlUrl="http://rss.zol.com.cn/news.xml"/>
+    </outline>
+    <outline title="游戏" text="游戏">
+      <outline title="3DM - 新闻中心" text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.app/3dm/news"/>
+      <outline title="机核" text="机核" type="rss" xmlUrl="https://www.gcores.com/rss"/>
+    </outline>
+    <outline title="程序设计" text="程序设计">
+      <outline title="InfoQ推荐" text="InfoQ推荐" type="rss" xmlUrl="https://rsshub.app/infoq/recommend"/>
+      <outline title="V2EX" text="V2EX" type="rss" xmlUrl="https://www.v2ex.com/index.xml"/>
+      <outline title="segmentfault-前端" text="segmentfault-前端" type="rss" xmlUrl="https://segmentfault.com/feeds/channel/frontend"/>
+      <outline title="开发者头条:今日头条 2019-09-13" text="开发者头条:今日头条 2019-09-13" type="rss" xmlUrl="https://rsshub.app/toutiao/today"/>
+      <outline title="掘金前端" text="掘金前端" type="rss" xmlUrl="https://rsshub.app/juejin/category/frontend"/>
+      <outline title="码农网" text="码农网" type="rss" xmlUrl="https://rsshub.app/codeceo/home"/>
+      <outline title="美团技术团队" text="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/feed/"/>
+      <outline title="HelloGitHub 月刊" text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss"/>
+      <outline title="android" text="android" type="rss" xmlUrl="https://www.v2ex.com/feed/android.json"/>
+      <outline title="掘金翻译计划" text="掘金翻译计划" type="rss" xmlUrl="https://rsshub.app/juejin/tag/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92"/>
+      <outline title="GitHubDaily - 知乎专栏" text="GitHubDaily - 知乎专栏" type="rss" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/GHDaily"/>
+      <outline title="SegmentFault 最新的问题" text="SegmentFault 最新的问题" type="rss" xmlUrl="https://segmentfault.com/feeds/questions"/>
+      <outline title="segmentfault_android" text="segmentfault_android" type="rss" xmlUrl="https://segmentfault.com/feeds/tag/android"/>
+      <outline title="segmentfault_推荐" text="segmentfault_推荐" type="rss" xmlUrl="https://segmentfault.com/feeds/blogs"/>
+    </outline>
+    <outline title="论坛" text="论坛">
+      <outline title="步行街主干道最新回帖——虎扑步行街" text="步行街主干道最新回帖——虎扑步行街" type="rss" xmlUrl="https://rsshub.app/hupu/bbs/bxj"/>
+      <outline title="看雪论坛精华主题 - Android安全" text="看雪论坛精华主题 - Android安全" type="rss" xmlUrl="https://rsshub.app/pediy/topic/android/digest"/>
+      <outline title="吾爱破解 - LCG" text="吾爱破解 - LCG" type="rss" xmlUrl="https://www.52pojie.cn/forum.php?mod=rss"/>
+      <outline title="远景论坛" text="远景论坛" type="rss" xmlUrl="http://bbs.pcbeta.com/forum.php?mod=rss"/>
+    </outline>
+    <outline title="购物" text="购物">
+      <outline title="京东众筹 -- 全部" text="京东众筹 -- 全部" type="rss" xmlUrl="https://rsshub.app/jingdong/zhongchou/all/zcz/zhtj"/>
+      <outline title="什么值得买" text="什么值得买" type="rss" xmlUrl="http://feed.smzdm.com/"/>
+      <outline title="小米众筹" text="小米众筹" type="rss" xmlUrl="https://rsshub.app/mi/crowdfunding"/>
+      <outline title="玩物志-最新" text="玩物志-最新" type="rss" xmlUrl="https://rsshub.app/coolbuy/newest"/>
+    </outline>
+    <outline title="软件" text="软件">
+      <outline title="异星软件空间" text="异星软件空间" type="rss" xmlUrl="http://www.yxssp.com/feed"/>
+      <outline title="新趣集今日最佳" text="新趣集今日最佳" type="rss" xmlUrl="https://rsshub.app/xinquji/today"/>
+      <outline title="Mac – 反斗限免" text="Mac – 反斗限免" type="rss" xmlUrl="http://free.apprcn.com/category/mac/feed/"/>
+      <outline title="异次元软件世界" text="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/"/>
+      <outline title="利器" text="利器" type="rss" xmlUrl="https://liqi.io/feed/"/>
+      <outline title="精品MAC应用分享" text="精品MAC应用分享" type="rss" xmlUrl="https://xclient.info/feed"/>
+    </outline>
+    <outline title="音乐电台" text="音乐电台">
+      <outline title="动漫唯美风" text="动漫唯美风" type="rss" xmlUrl="https://rsshub.app/ncm/djradio/347317067"/>
+      <outline title="bilibili 音乐综合分区" text="bilibili 音乐综合分区" type="rss" xmlUrl="https://rsshub.app/bilibili/partion/130"/>
+      <outline title="一派·Podcast - 少数派 SSPAI 旗下播客节目" text="一派·Podcast - 少数派 SSPAI 旗下播客节目" type="rss" xmlUrl="https://feeds.fireside.fm/sspai/rss"/>
+      <outline title="海螺电台 | The Spiral" text="海螺电台 | The Spiral" type="rss" xmlUrl="https://thespiral.fm/episodes/feed.xml"/>
+      <outline title="星箭廣播" text="星箭廣播" type="rss" xmlUrl="https://feeds.fireside.fm/starrocket/rss"/>
+      <outline title="Radio Pi" text="Radio Pi" type="rss" xmlUrl="https://feeds.fireside.fm/radiopi/rss"/>
+    </outline>
+  </body>
+</opml>

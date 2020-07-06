@@ -1,0 +1,12 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.8.29</latestVersion>
+    <latestVersionCode>68</latestVersionCode>
+    <url>https://ww.lanzous.com/id6ppze</url>
+    <releaseNotes>
+- Test update
+- Second evolution
+- Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
