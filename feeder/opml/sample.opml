@@ -2,7 +2,7 @@
 <opml version="1.1">
   <head>
     <title>
-      Feeder
+      Feeder sample
     </title>
   </head>
   <body>
@@ -47,7 +47,6 @@
       <outline title="OSCHINA 社区最新新闻" text="OSCHINA 社区最新新闻" type="rss" xmlUrl="https://www.oschina.net/news/rss"/>
       <outline title="知乎每日精选" text="知乎每日精选" type="rss" xmlUrl="https://www.zhihu.com/rss"/>
       <outline title="今日话题 - 雪球" text="今日话题 - 雪球" type="rss" xmlUrl="https://xueqiu.com/hots/topic/rss"/>
-      <outline title="PanSci 泛科學" text="PanSci 泛科學" type="rss" xmlUrl="https://pansci.asia/feed"/>
       <outline title="虎嗅" text="虎嗅" type="rss" xmlUrl="https://rss.huxiu.com/"/>
       <outline title="钛媒体：引领未来商业与生活新知" text="钛媒体：引领未来商业与生活新知" type="rss" xmlUrl="https://www.tmtpost.com/rss.xml"/>
       <outline title="TechWeb 每日热点推荐 RSS阅读" text="TechWeb 每日热点推荐 RSS阅读" type="rss" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml"/>
@@ -57,26 +56,9 @@
       <outline title="3DM - 新闻中心" text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.app/3dm/news"/>
       <outline title="机核" text="机核" type="rss" xmlUrl="https://www.gcores.com/rss"/>
     </outline>
-    <outline title="程序设计" text="程序设计">
-      <outline title="InfoQ推荐" text="InfoQ推荐" type="rss" xmlUrl="https://rsshub.app/infoq/recommend"/>
-      <outline title="V2EX" text="V2EX" type="rss" xmlUrl="https://www.v2ex.com/index.xml"/>
-      <outline title="segmentfault-前端" text="segmentfault-前端" type="rss" xmlUrl="https://segmentfault.com/feeds/channel/frontend"/>
-      <outline title="开发者头条:今日头条 2019-09-13" text="开发者头条:今日头条 2019-09-13" type="rss" xmlUrl="https://rsshub.app/toutiao/today"/>
-      <outline title="掘金前端" text="掘金前端" type="rss" xmlUrl="https://rsshub.app/juejin/category/frontend"/>
-      <outline title="码农网" text="码农网" type="rss" xmlUrl="https://rsshub.app/codeceo/home"/>
-      <outline title="美团技术团队" text="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/feed/"/>
-      <outline title="HelloGitHub 月刊" text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss"/>
-      <outline title="android" text="android" type="rss" xmlUrl="https://www.v2ex.com/feed/android.json"/>
-      <outline title="掘金翻译计划" text="掘金翻译计划" type="rss" xmlUrl="https://rsshub.app/juejin/tag/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92"/>
-      <outline title="GitHubDaily - 知乎专栏" text="GitHubDaily - 知乎专栏" type="rss" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/GHDaily"/>
-      <outline title="SegmentFault 最新的问题" text="SegmentFault 最新的问题" type="rss" xmlUrl="https://segmentfault.com/feeds/questions"/>
-      <outline title="segmentfault_android" text="segmentfault_android" type="rss" xmlUrl="https://segmentfault.com/feeds/tag/android"/>
-      <outline title="segmentfault_推荐" text="segmentfault_推荐" type="rss" xmlUrl="https://segmentfault.com/feeds/blogs"/>
-    </outline>
     <outline title="论坛" text="论坛">
       <outline title="步行街主干道最新回帖——虎扑步行街" text="步行街主干道最新回帖——虎扑步行街" type="rss" xmlUrl="https://rsshub.app/hupu/bbs/bxj"/>
       <outline title="看雪论坛精华主题 - Android安全" text="看雪论坛精华主题 - Android安全" type="rss" xmlUrl="https://rsshub.app/pediy/topic/android/digest"/>
-      <outline title="吾爱破解 - LCG" text="吾爱破解 - LCG" type="rss" xmlUrl="https://www.52pojie.cn/forum.php?mod=rss"/>
       <outline title="远景论坛" text="远景论坛" type="rss" xmlUrl="http://bbs.pcbeta.com/forum.php?mod=rss"/>
     </outline>
     <outline title="购物" text="购物">
@@ -86,12 +68,9 @@
       <outline title="玩物志-最新" text="玩物志-最新" type="rss" xmlUrl="https://rsshub.app/coolbuy/newest"/>
     </outline>
     <outline title="软件" text="软件">
-      <outline title="异星软件空间" text="异星软件空间" type="rss" xmlUrl="http://www.yxssp.com/feed"/>
       <outline title="新趣集今日最佳" text="新趣集今日最佳" type="rss" xmlUrl="https://rsshub.app/xinquji/today"/>
       <outline title="Mac – 反斗限免" text="Mac – 反斗限免" type="rss" xmlUrl="http://free.apprcn.com/category/mac/feed/"/>
-      <outline title="异次元软件世界" text="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/"/>
       <outline title="利器" text="利器" type="rss" xmlUrl="https://liqi.io/feed/"/>
-      <outline title="精品MAC应用分享" text="精品MAC应用分享" type="rss" xmlUrl="https://xclient.info/feed"/>
     </outline>
     <outline title="音乐电台" text="音乐电台">
       <outline title="动漫唯美风" text="动漫唯美风" type="rss" xmlUrl="https://rsshub.app/ncm/djradio/347317067"/>

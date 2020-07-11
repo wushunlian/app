@@ -1,12 +1,9 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0.19</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
-    <url>https://github.com/TutorialsAndroid/AppXUpdater/releases</url>
+    <latestVersion>1.8.30</latestVersion>
+    <latestVersionCode>69</latestVersionCode>
+    <url>https://wwe.lanzous.com/ic31nein5di</url>
     <releaseNotes>
-- First evolution
-- Second evolution
-- Bug fixes
     </releaseNotes>
   </update>
 </AppUpdater>
