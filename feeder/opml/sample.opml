@@ -1,84 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.1">
+<opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
-    <title>
-      Feeder sample
-    </title>
+    <title>RSSOwlnix Subscriptions</title>
+    <dateModified>星期三, 22 六月 2022 17:28:48 CST</dateModified>
   </head>
   <body>
-    <outline title="RSShub 路由站" text="RSShub 路由站" type="rss" xmlUrl="https://rsshub.app/rsshub/rss"/>
-    <outline title="博客" text="博客">
-      <outline title="阮一峰的网络日志" text="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml"/>
-      <outline title="GeekPlux" text="GeekPlux" type="rss" xmlUrl="https://geekplux.com/atom.xml"/>
-      <outline title="Hacker News Digest" text="Hacker News Digest" type="rss" xmlUrl="http://hackernews.betacat.io/feed"/>
-    </outline>
-    <outline title="学习" text="学习">
-      <outline title="Egg.js 团队 / Node.js 专栏" text="Egg.js 团队 / Node.js 专栏" type="rss" xmlUrl="https://rsshub.app/yuque/doc/75258"/>
-      <outline title="产品100" text="产品100" type="rss" xmlUrl="http://www.chanpin100.com/feed"/>
-      <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
-    </outline>
-    <outline title="展会" text="展会">
-      <outline title="上海 - 热门 - 每日环球展览 iMuseum" text="上海 - 热门 - 每日环球展览 iMuseum" type="rss" xmlUrl="https://rsshub.app/imuseum/shanghai/hot"/>
-      <outline title="杭州 - 全部 - 每日环球展览 iMuseum" text="杭州 - 全部 - 每日环球展览 iMuseum" type="rss" xmlUrl="https://rsshub.app/imuseum/hangzhou/all"/>
-      <outline title="豆瓣同城金华热门活动" text="豆瓣同城金华热门活动" type="rss" xmlUrl="https://www.douban.com/location/jinhua/events/feed/weekly"/>
-    </outline>
-    <outline title="数据" text="数据">
-      <outline title="艾瑞产业研究报告" text="艾瑞产业研究报告" type="rss" xmlUrl="https://rsshub.app/iresearch/report"/>
-    </outline>
-    <outline title="数码" text="数码">
-      <outline title="DockOne.io无标题文档" text="DockOne.io无标题文档" type="rss" xmlUrl="https://rsshub.app/dockone/weekly"/>
-      <outline title="LeetCode Articles" text="LeetCode Articles" type="rss" xmlUrl="https://rsshub.app/leetcode/articles"/>
-      <outline title="技术头条" text="技术头条" type="rss" xmlUrl="https://rsshub.app/blogread/newest"/>
-      <outline title="数码" text="数码" type="rss" xmlUrl="http://rss.huanqiu.com/tech/digi.xml"/>
-    </outline>
-    <outline title="文本" text="文本">
-      <outline title="古诗文推荐" text="古诗文推荐" type="rss" xmlUrl="https://rsshub.app/gushiwen/recommend"/>
-    </outline>
-    <outline title="新闻" text="新闻">
-      <outline title="cnBeta.COM RSS订阅" text="cnBeta.COM RSS订阅" type="rss" xmlUrl="https://www.cnbeta.com/backend.php"/>
-      <outline title="Engadget 中文版 全文" text="Engadget 中文版 全文" type="rss" xmlUrl="http://cn.engadget.com/rss.xml"/>
-      <outline title="36氪" text="36氪" type="rss" xmlUrl="https://www.36kr.com/feed"/>
-      <outline title="果壳网 科学人" text="果壳网 科学人" type="rss" xmlUrl="https://rsshub.app/guokr/scientific"/>
-      <outline title="爱范儿" text="爱范儿" type="rss" xmlUrl="https://www.ifanr.com/feed"/>
-      <outline title="极客公园" text="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss"/>
-      <outline title="Linux 中国◆开源社区" text="Linux 中国◆开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml"/>
-      <outline title="少数派" text="少数派" type="rss" xmlUrl="https://sspai.com/feed"/>
-      <outline title="小众软件" text="小众软件" type="rss" xmlUrl="http://feeds.appinn.com/appinns/"/>
-      <outline title="OSCHINA 社区最新新闻" text="OSCHINA 社区最新新闻" type="rss" xmlUrl="https://www.oschina.net/news/rss"/>
-      <outline title="知乎每日精选" text="知乎每日精选" type="rss" xmlUrl="https://www.zhihu.com/rss"/>
-      <outline title="今日话题 - 雪球" text="今日话题 - 雪球" type="rss" xmlUrl="https://xueqiu.com/hots/topic/rss"/>
-      <outline title="虎嗅" text="虎嗅" type="rss" xmlUrl="https://rss.huxiu.com/"/>
-      <outline title="钛媒体：引领未来商业与生活新知" text="钛媒体：引领未来商业与生活新知" type="rss" xmlUrl="https://www.tmtpost.com/rss.xml"/>
-      <outline title="TechWeb 每日热点推荐 RSS阅读" text="TechWeb 每日热点推荐 RSS阅读" type="rss" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml"/>
-      <outline title="中关村在线新闻中心" text="中关村在线新闻中心" type="rss" xmlUrl="http://rss.zol.com.cn/news.xml"/>
-    </outline>
-    <outline title="游戏" text="游戏">
-      <outline title="3DM - 新闻中心" text="3DM - 新闻中心" type="rss" xmlUrl="https://rsshub.app/3dm/news"/>
-      <outline title="机核" text="机核" type="rss" xmlUrl="https://www.gcores.com/rss"/>
-    </outline>
-    <outline title="论坛" text="论坛">
-      <outline title="步行街主干道最新回帖——虎扑步行街" text="步行街主干道最新回帖——虎扑步行街" type="rss" xmlUrl="https://rsshub.app/hupu/bbs/bxj"/>
-      <outline title="看雪论坛精华主题 - Android安全" text="看雪论坛精华主题 - Android安全" type="rss" xmlUrl="https://rsshub.app/pediy/topic/android/digest"/>
-      <outline title="远景论坛" text="远景论坛" type="rss" xmlUrl="http://bbs.pcbeta.com/forum.php?mod=rss"/>
-    </outline>
-    <outline title="购物" text="购物">
-      <outline title="京东众筹 -- 全部" text="京东众筹 -- 全部" type="rss" xmlUrl="https://rsshub.app/jingdong/zhongchou/all/zcz/zhtj"/>
-      <outline title="什么值得买" text="什么值得买" type="rss" xmlUrl="http://feed.smzdm.com/"/>
-      <outline title="小米众筹" text="小米众筹" type="rss" xmlUrl="https://rsshub.app/mi/crowdfunding"/>
-      <outline title="玩物志-最新" text="玩物志-最新" type="rss" xmlUrl="https://rsshub.app/coolbuy/newest"/>
-    </outline>
-    <outline title="软件" text="软件">
-      <outline title="新趣集今日最佳" text="新趣集今日最佳" type="rss" xmlUrl="https://rsshub.app/xinquji/today"/>
-      <outline title="Mac – 反斗限免" text="Mac – 反斗限免" type="rss" xmlUrl="http://free.apprcn.com/category/mac/feed/"/>
-      <outline title="利器" text="利器" type="rss" xmlUrl="https://liqi.io/feed/"/>
-    </outline>
-    <outline title="音乐电台" text="音乐电台">
-      <outline title="动漫唯美风" text="动漫唯美风" type="rss" xmlUrl="https://rsshub.app/ncm/djradio/347317067"/>
-      <outline title="bilibili 音乐综合分区" text="bilibili 音乐综合分区" type="rss" xmlUrl="https://rsshub.app/bilibili/partion/130"/>
-      <outline title="一派·Podcast - 少数派 SSPAI 旗下播客节目" text="一派·Podcast - 少数派 SSPAI 旗下播客节目" type="rss" xmlUrl="https://feeds.fireside.fm/sspai/rss"/>
-      <outline title="海螺电台 | The Spiral" text="海螺电台 | The Spiral" type="rss" xmlUrl="https://thespiral.fm/episodes/feed.xml"/>
-      <outline title="星箭廣播" text="星箭廣播" type="rss" xmlUrl="https://feeds.fireside.fm/starrocket/rss"/>
-      <outline title="Radio Pi" text="Radio Pi" type="rss" xmlUrl="https://feeds.fireside.fm/radiopi/rss"/>
+    <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
+      <outline text="二次元" rssowl:isSet="false" rssowl:id="35964">
+        <outline text="拆盒" xmlUrl="http://www.chaihezi.com/feed" rssowl:id="35966" />
+      </outline>
+      <outline text="实事新闻" rssowl:isSet="false" rssowl:id="26552">
+        <outline text="喷嚏网--乐 活" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=agile" rssowl:id="26616" />
+        <outline text="喷嚏网--铂程斋" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=xilei" rssowl:id="26678" />
+        <outline text="喷嚏网--长阅读" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=xilei" rssowl:id="26746" />
+        <outline text="界面rss订阅" xmlUrl="http://a.jiemian.com/index.php?m=article&amp;a=rss" rssowl:id="26748" />
+        <outline text="网易新闻" xmlUrl="http://news.163.com/special/00011K6L/rss_newsattitude.xml" rssowl:id="26833" />
+        <outline text="抽屉新热榜" xmlUrl="http://dig.chouti.com/feed.xml" rssowl:id="35888" />
+        <outline text="猎云网" xmlUrl="https://www.lieyunwang.com/newrss/feed.xml" rssowl:id="36492" />
+      </outline>
+      <outline text="法律常识" rssowl:isSet="false" rssowl:id="26012">
+        <outline text="东方法眼-记录" xmlUrl="http://www.dffyw.com/apps/rss.php?channelid=1" rssowl:id="26014" />
+        <outline text="东方法眼-时评" xmlUrl="http://www.dffyw.com/apps/rss.php?channelid=2" rssowl:id="26136" />
+        <outline text="东方法眼-法规" xmlUrl="http://www.dffyw.com/apps/rss.php?channelid=5" rssowl:id="26258" />
+        <outline text="东方法眼-法考" xmlUrl="http://www.dffyw.com/apps/rss.php?channelid=6" rssowl:id="26380" />
+      </outline>
+      <outline text="博客-外" rssowl:isSet="false" rssowl:id="37998">
+        <outline text="Hacker News Digest" xmlUrl="http://hackernews.betacat.io/feed" rssowl:id="23500" />
+        <outline text="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" rssowl:id="38000" />
+        <outline text="Christian Heilmann" xmlUrl="https://christianheilmann.com/feed" rssowl:id="38479" />
+      </outline>
+      <outline text="博客" rssowl:isSet="false" rssowl:id="23497">
+        <outline text="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" rssowl:id="23498" />
+        <outline text="GeekPlux" xmlUrl="https://geekplux.com/atom.xml" rssowl:id="23499" />
+        <outline text="月光博客" xmlUrl="https://www.williamlong.info/rss.xml" rssowl:id="25827" />
+        <outline text="或。者 五行缺水的博客" xmlUrl="http://www.qh505.com/blog/feed.php" rssowl:id="25979" />
+        <outline text="Huiris's log" xmlUrl="https://huiris.com/feed" rssowl:id="26502" />
+        <outline text="左岸读书" xmlUrl="https://www.zreading.cn/feed" rssowl:id="33471" />
+        <outline text="土木坛子" xmlUrl="https://tumutanzi.com/feed" rssowl:id="33785" />
+        <outline text="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" rssowl:id="33869" />
+        <outline text="世说新语" xmlUrl="https://www.wangyurui.top/index.php/feed" rssowl:id="35615" />
+        <outline text="张鑫旭-鑫空间-鑫生活" xmlUrl="https://www.zhangxinxu.com/wordpress/feed" rssowl:id="35775" />
+        <outline text="香菇肥牛的博客" xmlUrl="https://qing.su/feed" rssowl:id="36521" />
+        <outline text="JustPod" xmlUrl="https://justpodnews.com/rss" rssowl:id="36815" />
+        <outline text="左岸读书" xmlUrl="http://www.zreading.cn/feed" rssowl:id="37414" />
+        <outline text="Beyond the Void" xmlUrl="https://byvoid.com/zht/feed.xml" rssowl:id="37481" />
+        <outline text="Changkun's Blog" xmlUrl="https://changkun.de/blog/index.xml" rssowl:id="37495" />
+        <outline text="Limboy" xmlUrl="https://limboy.me/index.xml" rssowl:id="37825" />
+        <outline text="meditic的博客" xmlUrl="http://meditic.com/feed" rssowl:id="38049" />
+        <outline text="Tony Bai" xmlUrl="http://tonybai.com/feed" rssowl:id="38061" />
+        <outline text="Xuanwo's Blog" xmlUrl="https://xuanwo.io/index.xml" rssowl:id="38467" />
+      </outline>
+      <outline text="学习" rssowl:isSet="false" rssowl:id="23501">
+        <outline text="MSRA" xmlUrl="https://www.msra.cn/feed" rssowl:id="25915" />
+        <outline text="美团技术团队" xmlUrl="https://tech.meituan.com/feed" rssowl:id="25956" />
+        <outline text="科学学研究-CNKI" xmlUrl="https://navi.cnki.net/knavi/rss/KXYJ" rssowl:id="25991" />
+        <outline text="豆瓣最受欢迎的书评" xmlUrl="https://www.douban.com/feed/review/book" rssowl:id="26885" />
+        <outline text="开发者头条" xmlUrl="https://toutiao.io/daily.xml" rssowl:id="33851" />
+        <outline text="技术小黑屋" xmlUrl="https://droidyue.com/atom.xml" rssowl:id="36628" />
+        <outline text="始终" xmlUrl="https://liam.page/atom.xml" rssowl:id="36630" />
+        <outline text="w2solo - 独立开发者社区" xmlUrl="https://w2solo.com/topics/feed" rssowl:id="36741" />
+        <outline text="Thoughtworks洞见" xmlUrl="https://insights.thoughtworks.cn/feed" rssowl:id="36783" />
+      </outline>
+      <outline text="财经" rssowl:isSet="false" rssowl:id="26809">
+        <outline text="今日话题 - 雪球" xmlUrl="https://xueqiu.com/hots/topic/rss" rssowl:id="23530" />
+        <outline text="喷嚏网--财经" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=caijing" rssowl:id="26554" />
+        <outline text="财新博客-新世纪的常识传播者" xmlUrl="http://blog.caixin.com/feed" rssowl:id="26811" />
+      </outline>
+      <outline text="设计美工" rssowl:isSet="false" rssowl:id="33636">
+        <outline text="DEX 周刊" xmlUrl="https://newsletter.dex.group/rss" rssowl:id="35186" />
+        <outline text="优设网 – UISDC" xmlUrl="https://www.uisdc.com/feed" rssowl:id="33638" />
+        <outline text="摄影世界摄影世界" xmlUrl="https://www.photoworld.com.cn/feed" rssowl:id="33718" />
+        <outline text="安妮薇时报 Anyway.News" xmlUrl="https://anyway.fm/news/rss.xml" rssowl:id="34847" />
+        <outline text="产品100" xmlUrl="http://www.chanpin100.com/feed" rssowl:id="23503" />
+        <outline text="Lines and Colors" xmlUrl="http://www.linesandcolors.com/feed" rssowl:id="37456" />
+      </outline>
+      <outline text="科技新闻" rssowl:isSet="false" rssowl:id="23518">
+        <outline text="cnBeta.COM RSS订阅" xmlUrl="https://www.cnbeta.com/backend.php" rssowl:id="23519" />
+        <outline text="36氪" xmlUrl="https://www.36kr.com/feed" rssowl:id="23521" />
+        <outline text="爱范儿" xmlUrl="https://www.ifanr.com/feed" rssowl:id="23523" />
+        <outline text="极客公园" xmlUrl="http://www.geekpark.net/rss" rssowl:id="23524" />
+        <outline text="Linux 中国◆开源社区" xmlUrl="https://linux.cn/rss.xml" rssowl:id="23525" />
+        <outline text="少数派" xmlUrl="https://sspai.com/feed" rssowl:id="23526" />
+        <outline text="OSCHINA 社区最新新闻" xmlUrl="https://www.oschina.net/news/rss" rssowl:id="23528" />
+        <outline text="知乎每日精选" xmlUrl="https://www.zhihu.com/rss" rssowl:id="23529" />
+        <outline text="虎嗅" xmlUrl="https://rss.huxiu.com/" rssowl:id="23531" />
+        <outline text="钛媒体：引领未来商业与生活新知" xmlUrl="https://www.tmtpost.com/rss.xml" rssowl:id="23532" />
+        <outline text="TechWeb 每日热点推荐 RSS阅读" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" rssowl:id="23533" />
+        <outline text="中关村在线新闻中心" xmlUrl="http://rss.zol.com.cn/news.xml" rssowl:id="23534" />
+        <outline text="奇客Solidot–传递最新科技情报" xmlUrl="https://www.solidot.org/index.rss" rssowl:id="25893" />
+        <outline text="InfoQ - 促进软件开发领域知识与创新的传播" xmlUrl="https://www.infoq.cn/feed" rssowl:id="33513" />
+        <outline text="数字尾巴" xmlUrl="https://www.dgtle.com/rss/dgtle.xml" rssowl:id="33555" />
+        <outline text="IT之家" xmlUrl="https://www.ithome.com/rss" rssowl:id="35347" />
+        <outline text="品玩" xmlUrl="https://www.pingwest.com/feed/all" rssowl:id="35743" />
+        <outline text="数字尾巴" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" rssowl:id="36066" />
+      </outline>
+      <outline text="游戏" rssowl:isSet="false" rssowl:id="23535">
+        <outline text="机核" xmlUrl="https://www.gcores.com/rss" rssowl:id="23537" />
+        <outline text="游研社" xmlUrl="https://www.yystv.cn/rss/feed" rssowl:id="25859" />
+        <outline text="游戏大观 | GameLook.com.cn" xmlUrl="http://www.gamelook.com.cn/feed" rssowl:id="36233" />
+        <outline text="游戏葡萄" xmlUrl="http://youxiputao.com/feed" rssowl:id="36290" />
+        <outline text="触乐" xmlUrl="http://www.chuapp.com/feed" rssowl:id="36847" />
+      </outline>
+      <outline text="论坛" rssowl:isSet="false" rssowl:id="23538">
+        <outline text="远景论坛" xmlUrl="http://bbs.pcbeta.com/forum.php?mod=rss" rssowl:id="23541" />
+        <outline text="weekly 标签新帖" xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rssowl:id="35232" />
+      </outline>
+      <outline text="购物" rssowl:isSet="false" rssowl:id="23542">
+        <outline text="什么值得买" xmlUrl="http://feed.smzdm.com/" rssowl:id="23544" />
+      </outline>
+      <outline text="软件" rssowl:isSet="false" rssowl:id="23547">
+        <outline text="Mac – 反斗限免" xmlUrl="http://free.apprcn.com/category/mac/feed/" rssowl:id="23549" />
+        <outline text="小众软件" xmlUrl="http://feeds.appinn.com/appinns/" rssowl:id="23527" />
+        <outline text="异次元软件世界" xmlUrl="https://feed.iplaysoft.com" rssowl:id="32543" />
+        <outline text="反斗软件" xmlUrl="http://www.apprcn.com/feed" rssowl:id="33469" />
+        <outline text="厘米天空" xmlUrl="http://www.cmsky.com/feed" rssowl:id="35704" />
+        <outline text="新趣集" xmlUrl="https://xinquji.com/rss" rssowl:id="36148" />
+        <outline text="Mac玩儿法" xmlUrl="http://www.waerfa.com/feed" rssowl:id="36909" />
+      </outline>
+      <outline text="音乐电台" rssowl:isSet="false" rssowl:id="23551">
+        <outline text="一派·Podcast - 少数派 SSPAI 旗下播客节目" xmlUrl="https://feeds.fireside.fm/sspai/rss" rssowl:id="23554" />
+        <outline text="海螺电台 | The Spiral" xmlUrl="https://thespiral.fm/episodes/feed.xml" rssowl:id="23555" />
+        <outline text="星箭廣播" xmlUrl="https://feeds.fireside.fm/starrocket/rss" rssowl:id="23556" />
+        <outline text="Radio Pi" xmlUrl="https://feeds.fireside.fm/radiopi/rss" rssowl:id="23557" />
+        <outline text="日谈公园" xmlUrl="https://www.ximalaya.com/album/5574153.xml" rssowl:id="26927" />
+        <outline text="机核网 GADIO 游戏广播" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" rssowl:id="27819" />
+        <outline text="原来是这样？！" xmlUrl="https://getpodcast.xyz/data/ximalaya/246622.xml" rssowl:id="28421" />
+        <outline text="一席YiXi" xmlUrl="https://www.ximalaya.com/album/242812.xml" rssowl:id="29341" />
+        <outline text="段子来了" xmlUrl="https://www.ximalaya.com/album/203355.xml" rssowl:id="30624" />
+        <outline text="疯投圈" xmlUrl="https://crazy.capital/feed" rssowl:id="34984" />
+      </outline>
+      <outline text="时尚生活" rssowl:isSet="false" rssowl:id="33781">
+        <outline text="A Day Magazine" xmlUrl="https://www.adaymag.com/feed" rssowl:id="33783" />
+        <outline text="YOHO!潮流资讯" xmlUrl="http://www.yohoboys.com/rss" rssowl:id="35409" />
+        <outline text="华丽志" xmlUrl="https://luxe.co/feed" rssowl:id="35617" />
+      </outline>
+      <outline text="其它" rssowl:isSet="false" rssowl:id="36169">
+        <outline text="有趣网址之家 - 收藏全球最有趣的网站" xmlUrl="http://youquhome.com/?feed=rss2" rssowl:id="36171" />
+        <outline text="泛见志" xmlUrl="http://www.fanjian.net/rss" rssowl:id="36231" />
+      </outline>
     </outline>
   </body>
 </opml>
+
